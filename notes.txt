@@ -1,0 +1,24 @@
+Blockchain is Distributed Ledger Technology.
+
+1.Upcoding of services:
+
+Billing insurers for services that are more costly than the actual procedure that was done.
+Clients claiming more money form the insurers than what actually costed for them at the hospital.
+
+2.Upcoding of items:
+
+Similar to upcoding of services but involving the use of medical equipment.
+Hosptials providing the insurance company that they have done the treatment worth for more money than what actually costed for the client.
+
+3.Billing for services not rendered:
+
+Billing insurers for fake medical claims.
+These can be prevented using blockchain because the insurance company will get both the data from hospital and well as the client and all that data is stored in a blockchain which can be viewed by all of them for authnenticity purposes of making the right claim.
+Client can see what is being claimed on his name by the hospital and the hospital can see what is claimed by client at the insurance company.
+This ensures that no fake or tampered claims are being made.
+If any new change occurs legally a new block will be added with the updated information to the blockchain but no pre-existing data can be modified.
+
+4.Duplicate claims:
+
+In this case a provider does not submit exactly the same bill, but changes some small portion like the date in order to charge Medicare twice for the same service rendered.
+This cannot be done because of implementing the blockchain tampering will be made difficult since blockchain is a distributed ledger and hence the entity will have to tamper more than 51% of the P2P distributed ledger system and also we will have the information of the entire history of the entity and all the claims the entity has ever made untampered.
